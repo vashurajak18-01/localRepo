@@ -2,5 +2,5 @@
  Hello 
  From here I want to learning about GitHub. 
  Let's talk about our learning journey...
-# Now I am doing comment on this this repository..
+ Now I am doing comment on this this repository..
 More comments add the GitHub profile cool ...
