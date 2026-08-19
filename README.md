@@ -1,6 +1,6 @@
 ## This is my first Repo Ever. 
 ## Hello Dears !!!
-From here I want to learning about GitHub.   
+From here I want to learning about _GitHub_.   
 Let's talk about our learning journey...
  <br> 
 Now I am doing comment on this this repository.
