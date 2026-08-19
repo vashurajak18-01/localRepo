@@ -1,4 +1,4 @@
-## This is my first Repo. 
+## This is my first Repo Ever. 
 ## Hello Dears
 From here I want to learning about GitHub.   
 Let's talk about our learning journey...
