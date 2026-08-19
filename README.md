@@ -1,5 +1,5 @@
 ## This is my first Repo. 
-## Hello 
+## Hello Dears
 From here I want to learning about GitHub.   
 Let's talk about our learning journey...
  <br> 
