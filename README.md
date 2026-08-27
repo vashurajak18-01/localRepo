@@ -5,4 +5,4 @@ _Let's talk about our learning journey..._
  <br> 
 _Now I am doing comment on this this repository._
 <br>
-More comments add the GitHub profile cool ...
+_More comments add the GitHub profile cool ..._
