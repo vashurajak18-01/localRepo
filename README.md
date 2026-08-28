@@ -1,5 +1,5 @@
 # This is my first Repo Ever. 
-## My Fraand !!!
+## _My Fraand !!!_
 From here I want to learning about _GitHub_.   
 _Let's talk about our learning journey..._
  <br> 
