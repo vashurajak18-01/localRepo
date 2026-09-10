@@ -6,5 +6,5 @@ _From here I want to learning about GitHub_.
  <br> 
 _Now I am doing comment on_ this repository.
 <br>
-More comments added to the GitHub profile cool ...
+More comments added to the GitHub profile cool ...<br>
 Hello
