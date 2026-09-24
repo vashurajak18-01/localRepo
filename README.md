@@ -2,7 +2,7 @@
 ## **__My Fraand !!!__**
 **_Aaj mann krta hai ik sirf aapse se hi bate krta rhu_** <br>
 **_From here I want to learning about GitHub_.**   
-**_Let's talk about our learning journey..._**
+**__Let's talk about our learning journey...__**
  <br> 
 _Now I am doing comment on_ this repository.
 <br>
