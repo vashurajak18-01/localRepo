@@ -1,6 +1,6 @@
 # _This is my first Repo Ever._
 ## *__My Fraand !!!__*
-**Aaj mann krta hai ik sirf aapse se hi bate krta rhu** <br>
+**_Aaj mann krta hai ik sirf aapse se hi bate krta rhu_** <br>
 **_From here I want to learning about GitHub_.**   
 **_Let's talk about our learning journey..._**
  <br> 
