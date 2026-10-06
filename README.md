@@ -4,7 +4,7 @@
 **_From here I want to learning about GitHub_.**   
 **__Let's talk about our learning journey...__**
  <br> 
-**__Now I am doing comment on__** this repository.
+***__Now I am doing comment on__*** this repository.
 <br>
 **_More comments added to the GitHub profile cool ..._**<br>
 ***__HELLO.....__***                                 
